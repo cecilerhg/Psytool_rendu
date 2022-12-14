@@ -1,0 +1,47 @@
+#noms {
+    margin-bottom: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#freqconsult {
+    margin: 0;
+}
+
+#patho {
+    margin: 0;
+}
+
+#traitement {
+    margin: 0;
+}
+
+#bao {
+    text-align: center;
+}
+
+.col-md-12 {
+    background-color: #F9F9F9;
+}
+
+.col-md-8 {
+    background-color: #F9F9F9;
+}
+
+[class*="col"] {
+    padding: 1rem;
+    /*background-color: #F9F9F9;*/
+    /*bleu*/
+    /*border: 2px solid #fff;*/
+    color: rgb(77, 77, 77);
+    text-align: center;
+}
+
+[class*="con"] {
+    padding: 1rem;
+    /*background-color: #9e33e5;*/
+    border: 2px solid #fff;
+    color: rgb(77, 77, 77);
+    text-align: center;
+}
